@@ -1,0 +1,11 @@
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.exe
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.deps.json
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.runtimeconfig.json
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.runtimeconfig.dev.json
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.dll
+C:\Users\nikse\source\repos\Matr\Matr\bin\Debug\netcoreapp3.1\Matr.pdb
+C:\Users\nikse\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.csprojAssemblyReference.cache
+C:\Users\nikse\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.AssemblyInfoInputs.cache
+C:\Users\nikse\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.AssemblyInfo.cs
+C:\Users\nikse\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.dll
+C:\Users\nikse\source\repos\Matr\Matr\obj\Debug\netcoreapp3.1\Matr.pdb
